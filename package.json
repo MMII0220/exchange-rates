@@ -1,0 +1,27 @@
+{
+  "name": "exchange-rates",
+  "version": "1.0.0",
+  "description": "Перевод курс валютов",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMII0220/exchange-rates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMII0220/exchange-rates/issues"
+  },
+  "homepage": "https://github.com/MMII0220/exchange-rates#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "money-exchange": "^1.0.0"
+  }
+}
